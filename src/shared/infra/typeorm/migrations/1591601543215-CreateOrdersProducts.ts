@@ -25,6 +25,10 @@ export default class CreateOrdersProducts1591601543215
             type: 'int',
           },
           {
+            name: 'order_id',
+            type: 'uuid',
+          },
+          {
             name: 'product_id',
             type: 'uuid',
           },
